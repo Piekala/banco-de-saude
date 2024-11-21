@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1080px"
+   height="1080px"
+   viewBox="0 0 1080 1080"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="banco-de-saude.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   inkscape:export-filename="banco-de-saude.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview137"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.25"
+     inkscape:cx="382"
+     inkscape:cy="518"
+     inkscape:window-width="1350"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs132">
+    <linearGradient
+       id="linearGradient3"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ed6d7d;stop-opacity:1;"
+         offset="0"
+         id="stop3" />
+      <stop
+         style="stop-color:#37978b;stop-opacity:1;"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ed6d7d;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#37978b;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <rect
+       x="140"
+       y="316"
+       width="1032"
+       height="656"
+       id="rect1" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="405.13336"
+       y1="353.0498"
+       x2="405.74689"
+       y2="681.0498"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(5.4403594,17.049902)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3"
+       id="linearGradient4"
+       x1="405.13336"
+       y1="353.0498"
+       x2="405.74689"
+       y2="681.0498"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(5.4403594,17.049902)" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text1"
+       style="font-size:426.667px;font-family:Calibri;-inkscape-font-specification:Calibri;text-orientation:upright;white-space:pre;shape-inside:url(#rect1);display:inline;fill:url(#linearGradient2);stroke:url(#linearGradient4);stroke-width:2"
+       transform="translate(130.55964,2.950098)"><tspan
+         x="140"
+         y="689.33362"
+         id="tspan3"><tspan
+           style="font-weight:bold;font-family:Lovelo;-inkscape-font-specification:'Lovelo Bold'"
+           id="tspan2">BS</tspan></tspan></text>
+  </g>
+</svg>
